@@ -15,7 +15,7 @@
 // set pins for your display
 
 int G = 11;
-int F = 10
+int F = 10;
 int A = 9;
 int B = 8;
 int E = 7;
